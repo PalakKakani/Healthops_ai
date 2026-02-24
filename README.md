@@ -76,3 +76,26 @@ How much was paid for claims with diagnosis N18?
 * If data is unavailable, the AI responds:
 
 "This information is not available in the uploaded dataset."
+
+### 1. App Page
+
+![Data Upload Screenshot](Images/1.png)
+
+### 2. Login Page
+
+![RAG AI Screenshot](Images/2.png)
+
+### 3. Data Ingestion Page
+
+![RAG AI Screenshot](Images/3.png)
+
+### 4. Modeling Page
+
+![RAG AI Screenshot](Images/4.png)
+
+### 5. AI Assistant Page
+
+![RAG AI Screenshot](Images/5.png)
+
+
+
