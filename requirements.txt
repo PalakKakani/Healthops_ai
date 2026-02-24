@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+duckdb
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+mlflow
+langchain
+faiss-cpu
+openai
+python-dotenv
+plotly
