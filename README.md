@@ -29,7 +29,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/healthops_ai.git
+git clone https://github.com/PalakKakani/healthops_ai.git
 cd healthops_ai
 ````
 
