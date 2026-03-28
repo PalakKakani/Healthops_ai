@@ -1,4 +1,4 @@
-# HealthOps AI 🏥🤖
+# HealthOps AI 🏥
 
 **HealthOps AI** is a Streamlit-based healthcare analytics platform that allows users to upload, clean, and explore EHR (Electronic Health Records) and Claims data. It also integrates **RAG (Retrieval-Augmented Generation)** using OpenAI’s embeddings and FAISS to answer healthcare data questions intelligently.
 
